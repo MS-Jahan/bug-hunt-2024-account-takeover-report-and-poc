@@ -1,4 +1,4 @@
-[This is an extended version of the actual report that I've submitted in the HackerOne Bug Bounty 2024]
+[This is an extended version of the actual report that I've submitted in the HackerOne Bug Bounty 2024. BTW, there's a lab for the same bug at [PortSwigger](https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-jku-header-injection). এক্সপেরিয়েন্স নাই, প্র্যাক্টিস নাই। তাই দেরি করে সাবমিট দিসি আর duplicate খাইসি! 😞]
 
 ### **Bug Bounty Report**
 
